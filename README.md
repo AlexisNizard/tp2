@@ -1,8 +1,8 @@
 # HAI913I : Évolution et Restructuration des Logiciels
 ## Analyse statique et dynamique TP1- Partie 2
 ## Auteurs
-- Matthieu Grimaud
 - Nizard Alexis
+- Matthieu Grimaud
 
 ## Manuel d'installation et utilisation
 
